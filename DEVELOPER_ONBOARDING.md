@@ -22,13 +22,13 @@ That's it. One simple flow.
 
 ---
 
-## 🚀 Quick Setup (5 Minutes)
+## Quick Setup (5 Minutes)
 
 Before reading code, get the app running:
 
 ```bash
 # Navigate to project
-cd c:\Users\krypton\localfindjuja
+cd c:\Users\krypton\jisaidie.app
 
 # Install dependencies (one time)
 npm install
@@ -43,7 +43,7 @@ The app should load. Click around. **This helps you understand what the code is 
 
 ---
 
-## 🧠 How the Code Works (Architecture Overview)
+## How the Code Works (Architecture Overview)
 
 ### The Data Flow
 
@@ -79,7 +79,7 @@ This is fundamental. Keep this flow in your head.
 
 ---
 
-## 📖 Read Files in This Order
+## Read Files in This Order
 
 ### Level 1: Understand the Entry Point (10 mins)
 
@@ -253,7 +253,7 @@ Each import has a reason:
 
 ---
 
-## 🎬 Now You Understand the Flow
+## Now You Understand the Flow
 
 Congratulations. You can now trace any user action through the code:
 
@@ -277,7 +277,7 @@ User clicks Call → Opens phone dialer
 
 ---
 
-## 🛠️ Common Tasks & Where to Make Changes
+## Common Tasks & Where to Make Changes
 
 ### Task: Add a New Business
 
@@ -400,7 +400,7 @@ Then use: `className="bg-brand-600"`
 
 ---
 
-## 📁 File Summary Reference
+## File Summary Reference
 
 | File | Purpose | Edit When |
 |------|---------|-----------|
@@ -419,7 +419,7 @@ Then use: `className="bg-brand-600"`
 
 ---
 
-## 🧪 How to Test Your Changes
+## How to Test Your Changes
 
 ### Testing Locally
 
@@ -460,7 +460,7 @@ Test on actual screen sizes:
 
 ---
 
-## 📦 Installing New Dependencies
+## Installing New Dependencies
 
 If you need a new library:
 
@@ -481,7 +481,7 @@ import { something } from 'package-name';
 
 ---
 
-## 🚀 Before You Commit Code
+## Before You Commit Code
 
 **Checklist:**
 
@@ -501,7 +501,7 @@ npm run build
 
 ---
 
-## 🎓 Learning Path Recommended
+## Learning Path Recommended
 
 **If you're new to React:**
 
@@ -521,7 +521,7 @@ npm run build
 
 ---
 
-## ❓ Quick Answers
+## Quick Answers
 
 **Q: Where does data come from?**
 A: `src/data/businesses.json` (local JSON file, no API yet)
@@ -552,7 +552,7 @@ A: Functions that let components use state (`useState`), side effects (`useEffec
 
 ---
 
-## 📚 Next Steps
+## Next Steps
 
 Once you're comfortable with this guide:
 
@@ -574,7 +574,7 @@ Once you're comfortable with this guide:
 
 ---
 
-## 🎯 You're Ready!
+## You're Ready!
 
 You now have a mental model of the entire codebase. You understand:
 
@@ -586,7 +586,7 @@ You now have a mental model of the entire codebase. You understand:
 
 **Go build something.** The code is here for you to learn from. Make mistakes, break things, fix them, and become confident.
 
-Welcome to the team! 🚀
+Welcome to the team!
 
 ---
 
@@ -597,4 +597,4 @@ Welcome to the team! 🚀
 3. Google the error message
 4. Ask a teammate or open an issue
 
-You got this! 💪
+You got this!
